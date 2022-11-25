@@ -1,3 +1,3 @@
-# Exam-UTS
+# Hasil (via onlinegdb)
 
-<img src="https://github.com/BNCC-Malang/bnccmalang-hacktoberfest.github.io/blob/master/Picture/Banner.png" alt="banner"></img>
+<img src="https://github.com/syauqqii/Exam-UTS/blob/main/1/Screenshot%20(61).png" alt="banner"></img>
