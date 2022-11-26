@@ -64,11 +64,11 @@ public class Main{
 		System.out.println("");
 		
 		int temp  = 0;
-        int count = 0;
+        int count = 1;
         
         // Proses enkripsi dan menampilkan hasil
 		for(int i=0; i<totalText; i++){
-		    count = 0;
+		    count = 1;
 		    System.out.print(" > Result-"+(i+1)+": ");
 		    for(int j=0; j<word[i][0].length(); j++){
 		        if(word[i][0].charAt(j) == ' '){
